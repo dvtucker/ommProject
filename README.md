@@ -11,18 +11,17 @@ Goals:
 
 Plan:
 1. Customer Management:
+- Input and store customer details (name, address, service frequency, etc.).
+- Allow updates to mutable fields like price or service status.
 
-2. Input and store customer details (name, address, service frequency, etc.).
-Allow updates to mutable fields like price or service status.
-Scheduling & Routing:
+2. Scheduling & Routing:
+- Generate a daily route based on service frequency.
+- Store completion status (done/not done).
 
-3. Generate a daily route based on service frequency.
-Store completion status (done/not done).
-Invoicing:
+3. Invoicing:
+- Generate monthly totals.
+- Mark invoices as "sent" or "not sent."
+- Mark payments as "paid" or "unpaid."
 
-4. Generate monthly totals.
-Mark invoices as "sent" or "not sent."
-Mark payments as "paid" or "unpaid."
-Reports:
-
-5. Summarize income at the end of the month.
+4. Reports:
+- Summarize income at the end of the month.
