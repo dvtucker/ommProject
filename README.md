@@ -1,5 +1,5 @@
 # ommProject
-program for organizing info for lawncare business
+program for managing customer data, scheduling, and invoicing for a lawn care business.
 
 Goals:
 - locate customer after done mowing & document services and store for later. Store date, name, address, set mutable set price
