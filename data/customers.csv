@@ -1,6 +1,4 @@
-Name,Address,Service
-John Doe,123 Main St,Weekly Mowing
-Jane Smith,456 Oak Ave,Biweekly MowingJohn Doe,123 Main St,Weekly Mowing
-Jane Smith,456 Oak Ave,Biweekly Mowing
-John Doe,123 Main St,7,50.0
-Jane Smith,456 Oak Ave,14,40.0
+John Doe,123 Main St,Weekly Mowing,50.0
+Jane Smith,456 Oak Ave,Biweekly Mowing,75.0
+Test Customer A,21 Jump St,Leaf cleanup,50.0
+Test Customer B,345 Sesame St,trimming,40.0
